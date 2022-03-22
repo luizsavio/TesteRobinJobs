@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "812575645923",
+    "firebase_url": "https://primeiroprojetofirebase-a9343.firebaseio.com",
+    "project_id": "primeiroprojetofirebase-a9343",
+    "storage_bucket": "primeiroprojetofirebase-a9343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812575645923:android:7f71c463dafa30500da5d6",
+        "android_client_info": {
+          "package_name": "Robin.Job.Posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812575645923-bu21nbc32pkms68qvjolf7ahl5u0kgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgr1wa4tU7LLp9R3rJnJ1c5EXKnCh-Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812575645923-bu21nbc32pkms68qvjolf7ahl5u0kgu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812575645923-lr7pdn269lolp4d2dhlep48qdgqb4bue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Job.Posts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
